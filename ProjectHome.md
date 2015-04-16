@@ -1,0 +1,1 @@
+New version of cogo shop rewritten from scratch. Includes more social integration with new admin using extjs4 and templating system.
